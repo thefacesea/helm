@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  helm-ingress:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-27T02:48:26.150559+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 2093b3ca9ea64a8d6075c7fc8ddbeffd2d829c7bed805a980f05f2204e68d96d
+    name: helm-ingress
+    type: application
+    urls:
+    - helm-ingress-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-27T02:48:26.151412+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 2093b3ca9ea64a8d6075c7fc8ddbeffd2d829c7bed805a980f05f2204e68d96d
+    name: helm-ingress
+    type: application
+    urls:
+    - charts/helm-ingress-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-27T02:48:26.148894+09:00"
